@@ -7,9 +7,12 @@
 Análisis cuantitativo y cualitativo de la evolución de Reintegros y Draw-Back en las exportaciones agroindustriales de Misiones y el NEA entre 2021 y 2025 (Yerba Mate, Té, Madera, Pasta Celulósica, Tableros y Tabaco).
 
 ## Archivos de Respaldo Guardados en Google Drive
-1. `Evolucion_Reintegros_y_Drawback_2021_2025-8.xlsx` (Análisis de beneficios y alícuotas por NCM).
-2. `Exportaciones_NEA_Misiones_2021_2025-14.xlsx` (Estadísticas de volúmenes, FOB y destinos).
-3. `Marco_Normativo_Reintegros_DrawBack_Modificaciones-2.docx` (Análisis normativo, Código Aduanero y decretos).
+1. https://docs.google.com/spreadsheets/d/1YyAWiSuwFm3ONKvl0fnYJiFc3--CIdEH/edit?usp=drivesdk&ouid=112060338864188736811&rtpof=true&sd=true
+(Análisis de beneficios y alícuotas por NCM).
+2. https://docs.google.com/spreadsheets/d/12Jxn3Npwjd-R4hqiBT9DDbdMZKIXEOyE/edit?usp=drivesdk&ouid=112060338864188736811&rtpof=true&sd=true
+ (Estadísticas de volúmenes, FOB y destinos).
+3. https://docs.google.com/document/d/1dQHF7NfTfwrHRGbhj8xiiyygmLpkBZfw/edit?usp=drivesdk&ouid=112060338864188736811&rtpof=true&sd=true
+ (Análisis normativo, Código Aduanero y decretos).
 
 ## Herramientas Utilizadas
 * **Perplexity:** Búsqueda y síntesis del marco regulatorio aduanero.
